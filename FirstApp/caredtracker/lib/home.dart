@@ -14,10 +14,6 @@ class home extends StatelessWidget {
         appBar: PreferredSize(
           preferredSize: Size.fromHeight(130.0), // Adjust the height as needed
           child: AppBar(
-            title: Container(
-              padding: EdgeInsets.only(
-                  top: 13), // Adjust the top padding to move the title down
-            ),
             flexibleSpace: Stack(
               children: [
                 Container(

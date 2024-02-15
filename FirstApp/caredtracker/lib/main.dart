@@ -4,7 +4,7 @@ import 'notification.dart';
 import 'newUser.dart';
 
 void main() {
-  runApp(home());
+  runApp(newUser());
 }
 
 // void main() {
